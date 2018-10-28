@@ -1,3 +1,5 @@
+/* eslint-env node, mocha */
+
 const assert = require('assert');
 
 Object.freeze(assert);
